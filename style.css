@@ -33,6 +33,7 @@ header{
     background-color: rgba(227, 242, 253, 0.3);
     height: 20vh;
     overflow: hidden;
+    z-index: 999;
 }
 .header-f-sec{
     padding: 1rem;
